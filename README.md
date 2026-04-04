@@ -1,2 +1,2 @@
 # DS4Earth
-M Tech Final Project
+A Data Science Approach to AI-Powered Climate Change Insights
