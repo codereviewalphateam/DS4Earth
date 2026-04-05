@@ -3,8 +3,7 @@
 A data science–driven platform transforming climate data into actionable, real-time insights using AI, geospatial analytics, and scalable cloud infrastructure.
 
 # Overview
-DS4Earth is an AI-powered climate intelligence platform developed to address the growing complexity of climate data and environmental risk analysis.
-Originally initiated as part of an MTech in Data Science & Engineering at BITS Pilani, DS4Earth has been architected as a scalable, product-led digital platform with real-world applicability across:
+DS4Earth is an AI-powered climate intelligence platform developed to address the growing complexity of climate data and environmental risk analysis. DS4Earth has been architected as a scalable, product-led digital platform with real-world applicability across:   
 Environmental monitoring   
 Satellite data analysis    
 Climate risk modeling    
@@ -54,8 +53,13 @@ Conceived and developed DS4Earth as an end-to-end platform
 Designed system architecture and data pipelines   
 Built and trained machine learning models   
 Led product vision from research → implementation    
-Research & Academic Validation  
-Developed as part of MTech (Data Science & Engineering) at Birla Institute of Technology and Science, Pilani
+# Research & Academic Validation 
+Research & Academic Validation
+Built using real-world industry exposure from Severn Trent Water and Tata Consultancy Services, combined with modern data engineering practices leveraging platforms such as Databricks (Medallion Architecture) and Microsoft Azure.
+Originally initiated as part of MTech (Data Science & Engineering)at Birla Institute of Technology and Science, Pilani
+
+# Intellectual Property
+A patent application (Application No: GB2607483.1) has been filed with the Intellectual Property Office for innovations in AI-driven climate intelligence, reinforcing the platform’s originality and technical depth.
 
 # Tech Stack
 
