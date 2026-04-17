@@ -45,7 +45,7 @@ Enabled processing of large-scale environmental datasets
 Improved efficiency in climate data analysis workflows   
 Demonstrated feasibility of real-time AI-driven climate insights   
 Processed 200K+ data points/day   
-Reduced analysis time by 40%   
+Reduced analysis time by 40% .  
 Model accuracy improved by 20% (7% to 95%)   
 
 # My Contribution (Leadership & Ownership)      
